@@ -1,6 +1,4 @@
 # # Eliandro Pizzonia
-# # 251363956
-# # epizzoni
 # nov 17 2023
 # this file asks the user for the file names of the keyword file and tweet file to
 # write call the functions from the sentiment_analysis file to write the final report
