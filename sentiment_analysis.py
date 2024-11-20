@@ -1,6 +1,4 @@
 # # Eliandro Pizzonia
-# # 251363956
-# # epizzoni
 # nov 17 2023
 # this file uses functions to produce a report that summarizes the sentiment of the tweets contained in the dataset.
 
